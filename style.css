@@ -19,5 +19,7 @@ h2.header{
 }
 div.header-bg{
   background-image: url(headerbanner.jpg);
-  background-size: contain;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
