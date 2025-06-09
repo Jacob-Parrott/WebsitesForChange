@@ -22,4 +22,35 @@ div.header-bg{
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  border-bottom: 5px black solid;
+}
+
+/* Charities Stuff */
+
+div.charities-header-bg{
+  background-image: url(headerbanner.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+h1.charities-header{
+  font-size: 3rem;
+  padding-top: 100px;
+  padding-bottom: 75px;
+}
+div.charities-header-bg{
+  background-image: url(CharitiesHeader.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-bottom: 5px black solid;
+}
+
+.charities-header {
+  font-family: "Anton", sans-serif;
+  font-style: normal;
+  text-align: center;
+  text-shadow: -2px 3px 0px #253324;
+  color:whitesmoke;
+  backdrop-filter: brightness(0.85);
 }
